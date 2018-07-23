@@ -1,0 +1,26 @@
+{
+  "name": "@timfischer/package-test",
+  "version": "1.0.0",
+  "description": "An example NPM package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TFisch/package-test.git"
+  },
+  "author": "Tim Fischer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TFisch/package-test/issues"
+  },
+  "homepage": "https://github.com/TFisch/package-test#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
